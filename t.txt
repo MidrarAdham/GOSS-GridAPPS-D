@@ -1,0 +1,15 @@
+Download https://raw.githubusercontent.com/GridOptics/GOSS/master/cnf/releaserepo/index.xml
+Download https://github.com/GridOptics/GOSS-Repository/raw/master/dependencies/index.xml.gz
+Download https://raw.githubusercontent.com/GridOptics/GOSS-Repository/master/dependencies/index.xml.gz
+Download https://raw.githubusercontent.com/GRIDAPPSD/CIMHub/master/cnf/release/index.xml
+Download https://raw.githubusercontent.com/bndtools/bundle-hub/master/index.xml.gz
+:gov.pnnl.goss.gridappsd:compileJava UP-TO-DATE
+:gov.pnnl.goss.gridappsd:processResources UP-TO-DATE
+:gov.pnnl.goss.gridappsd:classes UP-TO-DATE
+:gov.pnnl.goss.gridappsd:jar UP-TO-DATE
+:gov.pnnl.goss.gridappsd:assemble UP-TO-DATE
+:gov.pnnl.goss.gridappsd:compileTestJava FAILED
+
+BUILD FAILED
+
+Total time: 1.069 secs
